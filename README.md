@@ -3,8 +3,8 @@
 
 ## Aprendizados:
 
-Esse projeto foi possível exercitar o conceito de Mobile First usando unidades de medidas relativas. no JavaScript e manipular os elementos HTML, para criar novos elementos de forma dinâmica sempre que uma nova publicação é feita. 
-Foi interessante também trabalhar a divisão de tarefas para cada funcionalidade criada no JS. Mas o principal aprendizado foi de manipular os dados para imprimir a mensagen do usuário na tela de forma interativa.
+Esse projeto foi possível exercitar o conceito de Mobile First usando unidades de medidas relativas no CSS. Também com o uso do JavaScript foi interessante trabalhar a funcionalidade de link ativo, para indicar no menu qual seção está ativa no momento que ocorre o evento Scroll, além de acrescentar outras funcionalidades como mudanças de estilização no header adicionando e removendo classes. E o uso de biblioteca ScrollReveal para proporcionar rolagem suave e uma navegação agradável para o usuário.. 
+Trabalhar com funcionalidades como toggle para ter alternância no menu. Trabalhar padronização no CSS e no HTML para ter mais eficiência no desenvolvimento, e também trabalhar a divisão de tarefas para cada funcionalidade criada no JS.. Esse projeto OnePage apesar de simples, proporcionou muito aprendizado de diferentes maneiras...
 
 ## Tecnologias Utilizadas:
 
@@ -21,6 +21,7 @@ Foi interessante também trabalhar a divisão de tarefas para cada funcionalidad
 * index.html
 * /assets
     - /css
+        - reset.css
         - style.css
     - /img
     - /js
@@ -28,15 +29,15 @@ Foi interessante também trabalhar a divisão de tarefas para cada funcionalidad
 
 ### Status do Projeto: 
 *Concluído* ✔️
-Objetivo principal do projeto está finalizado. Mas outras funcionalidades poderão ser adicionadas ao DoctorCare.
+Objetivo principal do projeto DoctorCare está finalizado.
 
 **Possíveis funcionalidades:**
  - [x] Interface Principal
- - [x] Postagem da mensagem escrita
- - [x] Responsividade
- - [x] Pequeno menu interativo 
- - [ ] Abrir o chat
- - [ ] Postagem de imagens e vídeos 
+ - [x] Seções de divulgação do serviço 
+ - [x] Menu de navegação
+ - [x] Responsividade 
+ - [x] Indicador de seção ativa
+ 
 
 
 
