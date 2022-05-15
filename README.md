@@ -11,7 +11,7 @@ Foi interessante também trabalhar a divisão de tarefas para cada funcionalidad
 - HTML
 - CSS
 - JavaScript
-- Biblioteca 
+- Biblioteca (ScrollReveal)
 
 ### O Projeto
 
