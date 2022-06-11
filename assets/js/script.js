@@ -1,5 +1,5 @@
 window.addEventListener('scroll' , onScroll)
-onScroll ()
+onScroll()
 
 function onScroll () {
   navOnScroll ()
@@ -35,14 +35,15 @@ function activeMenu (section) {
       menuElement.classList.add('active')
   }
 
-} // aula 5 / 2hr 25min.
+} 
 
 function navOnScroll (){
+  const nav = document.querySelector('#navigation')
   if(scrollY > 0 ) {
-    navigation.classList.add('scroll')
+    nav.classList.add('scroll')
   }
   else {
-    navigation.classList.remove('scroll')
+    nav.classList.remove('scroll')
   }
  
 }
